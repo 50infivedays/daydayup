@@ -1,5 +1,5 @@
 daydayup Plan
 =================
-# update everyday
-#don't give up
+## update everyday
+## don't give up
 
