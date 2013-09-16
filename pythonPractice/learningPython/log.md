@@ -10,4 +10,8 @@
 ## setattr.py
     当类属性赋值操作时，会被展开为self.__setattr__('attr',value),注意这个函数中的任何
     属性赋值操作都会导致无限递
+## private.py
+    实现属性私有的方法，建立一个列表，里面存着私有变量名
+## privatewithread.py
+    实现对私有数据的读取
 
